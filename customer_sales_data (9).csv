@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,City,ProductCategory,Quantity,PurchaseAmount,PaymentMethod,PurchaseDate,Rating
+1102,20,Female,Ajmer,Clothing,2,3084.48,UPI,2025-03-27,5
+1435,30,Female,Mumbai,Electronics,2,9231.8,UPI,2025-09-15,3
+1270,16,Male,Kolkata,Sports,1,3070.57,Debit Card,2025-04-15,2
+1106,28,Male,Hyderabad,Clothing,4,6750.12,Cash on Delivery,2024-12-29,3
+1071,33,Male,Kolkata,Beauty,1,1297.19,UPI,2025-07-05,4
+1020,19,Female,Pune,Groceries,1,487.33,Credit Card,2024-03-15,5
+1121,48,Female,Delhi,Electronics,2,16811.48,UPI,2025-09-20,1
+1466,36,Female,Pune,Home & Kitchen,1,3482.69,Credit Card,2025-04-20,5
+1214,16,Female,Ahmedabad,Electronics,1,4833.33,Credit Card,2024-10-22,4
+1330,36,Female,Pune,Books,1,527.82,Debit Card,2024-11-07,3
+1458,27,Female,Delhi,Home & Kitchen,1,2622.01,Debit Card,2025-12-13,4
+1087,52,Male,Bengaluru,Groceries,1,430.97,Credit Card,2025-03-10,3
+1372,16,Female,Ajmer,Books,1,655.94,Credit Card,2024-01-12,4
+1099,38,Female,Chennai,Home & Kitchen,1,3110.59,UPI,2024-03-29,4
+1130,30,Other,Pune,Electronics,1,8390.57,UPI,2024-03-26,5
+1308,38,Female,Ahmedabad,Books,2,823.22,UPI,2025-02-05,4
+1343,48,Female,Mumbai,Groceries,1,911.38,UPI,2024-07-01,4
+1491,48,Female,Bengaluru,Home & Kitchen,1,2817.82,UPI,2024-04-17,3
+1413,41,Female,Chennai,Toys,1,713.16,Debit Card,2024-09-01,4
+1385,16,Female,Delhi,Electronics,2,19634.26,Debit Card,2025-11-19,3
+1191,19,Male,Mumbai,Clothing,5,3795.24,Credit Card,2025-08-07,3
+1276,23,Female,Ahmedabad,Beauty,5,4004.78,Debit Card,2024-11-14,5
+1160,59,Female,Jaipur,Toys,1,514.11,Debit Card,2024-08-30,4
+1459,26,Male,Jaipur,Electronics,1,6300.81,Net Banking,2024-02-16,3
+1313,61,Female,Bengaluru,Clothing,5,7127.09,UPI,2024-01-03,5
+1021,26,Male,Bengaluru,Home & Kitchen,2,3592.76,UPI,2024-11-18,3
+1252,27,Female,Chennai,Electronics,2,15801.92,Debit Card,2024-08-13,4
+1560,18,Male,Hyderabad,Groceries,1,424.58,Credit Card,2025-08-15,2
+1474,34,Female,Kolkata,Home & Kitchen,2,7060.95,UPI,2024-10-15,5
+1058,40,Female,Chennai,Sports,1,2598.27,UPI,2024-06-18,3
+1510,23,Female,Kolkata,Toys,1,866.42,UPI,2025-11-02,4
+1475,26,Male,Chennai,Sports,1,2156.37,UPI,2024-02-15,4
+1189,23,Male,Mumbai,Electronics,1,8494.1,Net Banking,2025-03-30,4
+1562,32,Female,Pune,Books,1,500.22,Credit Card,2024-08-29,5
+1566,39,Male,Hyderabad,Groceries,2,910.19,Credit Card,2024-09-26,5
+1243,38,Male,Ajmer,Electronics,2,12634.85,Debit Card,2025-07-23,1
+1504,32,Female,Ahmedabad,Electronics,2,8160.42,Cash on Delivery,2024-03-15,3
+1130,36,Male,Pune,Clothing,1,929.24,Cash on Delivery,2024-01-21,5
+1484,30,Female,Mumbai,Clothing,1,1943.62,UPI,2025-06-07,4
+1020,61,Male,Jaipur,Clothing,1,404.92,Credit Card,2025-07-15,5
+1166,23,Female,Ajmer,Books,1,508.18,UPI,2024-07-24,4
+1273,18,Female,Bengaluru,Clothing,1,1490.96,Credit Card,2025-01-20,5
+1387,29,Male,Ajmer,Electronics,1,1953.47,Debit Card,2025-06-27,4
+1315,36,Female,Hyderabad,Electronics,1,9501.17,Credit Card,2024-11-05,4
+1013,39,Male,Ajmer,Clothing,1,2055.18,UPI,2025-08-11,2
+1241,22,Male,Bengaluru,Home & Kitchen,1,2218.9,Net Banking,2024-10-31,5
+1345,52,Female,Pune,Clothing,1,1863.91,Cash on Delivery,2024-03-24,4
+1564,35,Female,Chennai,Groceries,2,1656.07,UPI,2024-01-12,3
+1339,22,Female,Chennai,Home & Kitchen,2,3941.4,UPI,2025-10-23,4
+1091,28,Male,Ajmer,Clothing,1,2685.14,Debit Card,2024-11-27,3
+1366,32,Female,Chennai,Home & Kitchen,1,3002.79,UPI,2025-07-15,5
+1454,16,Female,Hyderabad,Groceries,1,1080.42,Cash on Delivery,2025-01-05,3
+1427,19,Female,Delhi,Sports,1,684.88,Debit Card,2025-04-22,3
+1508,37,Male,Delhi,Clothing,1,1060.08,Cash on Delivery,2024-03-24,4
+1034,30,Male,Ahmedabad,Clothing,2,1325.12,UPI,2025-11-06,5
+1205,16,Male,Ajmer,Electronics,2,14256.67,UPI,2024-09-13,4
+1080,40,Female,Jaipur,Clothing,1,1255.27,Debit Card,2024-07-22,4
+1561,38,Male,Bengaluru,Sports,1,2109.63,Credit Card,2025-10-03,3
+1387,20,Female,Jaipur,Electronics,1,10013.6,Credit Card,2024-10-02,5
+1001,35,Male,Kolkata,Groceries,1,708.61,UPI,2024-05-30,1
+1389,46,Male,Jaipur,Home & Kitchen,1,1460.09,Cash on Delivery,2024-12-17,3
+1565,32,Female,Jaipur,Sports,1,1780.71,Cash on Delivery,2024-12-10,4
+1105,22,Male,Pune,Clothing,1,1520.84,UPI,2025-12-04,2
+1476,33,Female,Kolkata,Beauty,2,2036.71,UPI,2025-01-15,5
+1401,32,Female,Kolkata,Sports,1,2352.83,Debit Card,2025-03-30,1
+1555,21,Male,Delhi,Home & Kitchen,1,1059.95,Debit Card,2025-05-11,4
+1161,34,Female,Jaipur,Home & Kitchen,1,2267.6,Net Banking,2024-11-23,4
+1201,29,Female,Mumbai,Clothing,1,1190.43,Debit Card,2024-02-12,5
+1269,40,Male,Ahmedabad,Electronics,1,10730.93,Credit Card,2024-05-03,5
+1270,20,Male,Jaipur,Groceries,1,967.38,Credit Card,2025-01-07,3
+1455,44,Female,Bengaluru,Clothing,1,903.63,UPI,2025-10-05,5
+1461,22,Male,Chennai,Beauty,2,1845.48,Credit Card,2025-03-20,3
+1251,33,Female,Chennai,Groceries,4,2930.39,Credit Card,2024-04-27,4
+1295,48,Female,Pune,Electronics,2,18700.88,Debit Card,2024-02-18,3
+1337,26,Male,Chennai,Groceries,1,814.78,UPI,2025-03-14,4
+1052,39,Male,Kolkata,Clothing,1,847.24,Credit Card,2025-03-30,4
+1216,27,Male,Bengaluru,Groceries,1,271.25,Cash on Delivery,2025-07-07,4
+1187,44,Female,Ahmedabad,Electronics,1,11532.96,Credit Card,2024-06-15,5
+1379,42,Male,Bengaluru,Clothing,1,571.21,Debit Card,2025-07-14,5
+1492,28,Female,Pune,Clothing,1,1298.61,UPI,2024-02-27,4
+1040,41,Female,Hyderabad,Groceries,4,4268.68,Credit Card,2025-04-21,4
+1156,35,Male,Ajmer,Groceries,1,260.71,Net Banking,2025-05-29,5
+1014,28,Female,Jaipur,Toys,2,612.0,Cash on Delivery,2024-05-28,2
+1064,42,Male,Kolkata,Home & Kitchen,1,1813.68,UPI,2025-04-25,3
+1520,21,Female,Mumbai,Clothing,1,461.83,UPI,2025-10-27,4
+1343,43,Male,Delhi,Toys,3,2126.26,Cash on Delivery,2024-02-11,4
+1128,50,Male,Bengaluru,Beauty,2,2580.18,Credit Card,2025-02-02,4
+1471,39,Female,Mumbai,Toys,1,448.43,UPI,2024-10-15,5
+1062,61,Male,Hyderabad,Electronics,1,7039.55,UPI,2024-04-26,3
+1138,44,Male,Jaipur,Electronics,1,50.0,Net Banking,2025-06-26,4
+1498,23,Female,Pune,Clothing,1,1130.84,UPI,2025-05-31,5
+1592,26,Other,Ahmedabad,Electronics,1,7799.5,UPI,2024-04-08,2
+1391,26,Female,Jaipur,Home & Kitchen,1,3354.46,UPI,2024-04-10,4
+1418,44,Female,Bengaluru,Groceries,1,243.62,Credit Card,2025-04-27,4
+1288,47,Male,Hyderabad,Beauty,1,786.01,Credit Card,2024-09-02,5
+1378,53,Female,Jaipur,Home & Kitchen,1,3294.02,Debit Card,2025-11-23,5
+1489,33,Female,Ajmer,Groceries,1,739.03,UPI,2025-05-24,3
+1230,46,Male,Delhi,Clothing,2,1571.61,Debit Card,2025-01-31,3
+1040,37,Male,Ahmedabad,Sports,3,3821.73,Credit Card,2024-08-19,4
+1027,49,Male,Kolkata,Home & Kitchen,1,3714.48,UPI,2025-04-11,3
+1134,33,Female,Ajmer,Electronics,2,17659.0,UPI,2025-04-27,1
+1200,19,Male,Mumbai,Beauty,1,550.22,UPI,2024-09-17,4
+1032,25,Male,Bengaluru,Books,4,1695.79,Net Banking,2025-04-07,3
+1047,37,Male,Hyderabad,Home & Kitchen,4,6297.52,UPI,2024-05-28,3
+1502,22,Female,Delhi,Books,1,437.91,UPI,2025-06-05,4
+1406,22,Male,Delhi,Home & Kitchen,1,533.64,Cash on Delivery,2024-10-14,4
+1573,20,Female,Kolkata,Clothing,1,1745.03,UPI,2025-09-29,5
+1098,43,Other,Pune,Electronics,3,31050.71,UPI,2025-04-10,3
+1546,27,Male,Ahmedabad,Groceries,1,665.61,Credit Card,2025-02-24,4
+1461,16,Female,Bengaluru,Home & Kitchen,2,5156.86,Cash on Delivery,2024-04-20,3
+1004,48,Male,Hyderabad,Books,2,988.93,Debit Card,2025-05-05,4
+1217,42,Female,Pune,Home & Kitchen,1,3083.89,Debit Card,2024-08-21,5
+1502,18,Other,Jaipur,Clothing,1,668.97,Cash on Delivery,2025-01-15,4
+1397,26,Male,Ajmer,Home & Kitchen,1,3171.75,Credit Card,2024-07-06,5
+1392,35,Female,Delhi,Home & Kitchen,1,1664.24,Credit Card,2025-06-19,4
+1206,27,Male,Chennai,Groceries,1,798.68,Credit Card,2025-06-25,5
+1014,40,Female,Bengaluru,Clothing,1,963.0,Credit Card,2025-09-19,2
+1553,40,Female,Hyderabad,Clothing,1,1535.16,Credit Card,2024-02-16,3
+1460,46,Male,Delhi,Home & Kitchen,1,2195.78,UPI,2024-02-19,3
+1574,41,Female,Bengaluru,Home & Kitchen,1,4175.55,Cash on Delivery,2025-06-30,4
+1240,39,Male,Delhi,Groceries,2,944.3,Credit Card,2025-10-02,5
+1563,28,Male,Delhi,Books,1,387.7,UPI,2025-09-09,3
+1095,24,Female,Kolkata,Clothing,1,803.1,Debit Card,2024-07-23,3
+1484,35,Male,Ajmer,Home & Kitchen,1,2330.75,UPI,2025-06-02,2
+1406,42,Male,Bengaluru,Electronics,2,10296.75,Cash on Delivery,2024-05-21,5
+1230,21,Female,Bengaluru,Groceries,1,736.09,Cash on Delivery,2025-02-28,1
+1170,27,Other,Ajmer,Home & Kitchen,1,4129.32,UPI,2024-01-28,5
+1540,35,Male,Bengaluru,Electronics,1,6825.51,UPI,2025-05-28,4
+1035,31,Male,Kolkata,Groceries,2,1131.99,UPI,2024-10-20,5
+1524,26,Male,Chennai,Clothing,1,1171.74,Debit Card,2024-08-01,1
+1159,37,Female,Jaipur,Clothing,2,1596.17,Cash on Delivery,2025-03-22,4
+1242,31,Male,Mumbai,Clothing,1,865.47,Net Banking,2025-01-13,4
+1085,35,Female,Mumbai,Beauty,2,764.44,UPI,2025-07-12,3
+1577,34,Female,Delhi,Groceries,1,829.65,Credit Card,2024-10-09,3
+1556,27,Male,Kolkata,Home & Kitchen,1,1984.28,Credit Card,2025-06-27,3
+1573,24,Female,Ahmedabad,Groceries,1,874.17,Credit Card,2024-04-11,5
+1027,24,Female,Pune,Electronics,1,9163.35,Credit Card,2025-10-06,5
+1555,20,Other,Kolkata,Electronics,3,14312.08,Net Banking,2024-12-29,4
+1339,32,Female,Chennai,Clothing,2,249.55,Credit Card,2024-07-08,5
+1330,43,Male,Hyderabad,Electronics,1,7459.52,UPI,2024-09-29,5
+1505,38,Male,Pune,Electronics,1,7922.57,UPI,2024-06-04,4
+1347,39,Male,Ahmedabad,Electronics,2,9558.01,Credit Card,2024-05-22,3
+1472,39,Female,Kolkata,Beauty,1,964.65,Net Banking,2025-10-07,4
+1230,23,Female,Delhi,Groceries,1,636.03,Cash on Delivery,2025-06-25,5
+1189,29,Male,Delhi,Electronics,2,15895.05,Cash on Delivery,2025-09-13,5
+1224,42,Male,Ajmer,Toys,2,1744.61,UPI,2025-05-22,4
+1384,17,Male,Ajmer,Electronics,1,7161.04,Debit Card,2024-03-29,5
+1376,41,Male,Ajmer,Sports,1,2899.96,Cash on Delivery,2025-09-23,3
+1282,32,Other,Chennai,Electronics,2,14919.54,UPI,2025-10-22,2
+1258,37,Female,Ajmer,Electronics,2,23446.46,Cash on Delivery,2025-12-28,5
+1358,21,Female,Mumbai,Electronics,1,7648.2,Credit Card,2025-05-19,5
+1455,34,Female,Ajmer,Clothing,4,1724.23,UPI,2024-06-10,4
+1410,43,Female,Ajmer,Electronics,1,7310.41,UPI,2024-12-27,5
+1317,31,Male,Jaipur,Home & Kitchen,1,432.15,Debit Card,2024-02-18,1
+1224,30,Male,Chennai,Home & Kitchen,3,5243.53,UPI,2024-12-09,2
+1233,24,Female,Mumbai,Groceries,2,1328.96,Cash on Delivery,2025-10-20,4
+1373,50,Female,Kolkata,Home & Kitchen,1,1790.65,Debit Card,2025-08-24,5
+1471,28,Female,Jaipur,Electronics,1,8469.74,UPI,2025-11-03,4
+1232,24,Male,Delhi,Beauty,1,789.52,Credit Card,2024-04-14,4
+1112,36,Male,Bengaluru,Electronics,1,10923.5,Credit Card,2025-03-29,3
+1496,21,Male,Ajmer,Groceries,1,626.05,Debit Card,2024-12-22,3
+1441,16,Female,Hyderabad,Home & Kitchen,1,3232.65,Net Banking,2025-09-02,2
+1563,46,Male,Bengaluru,Clothing,1,1263.1,Debit Card,2024-02-10,4
+1267,42,Female,Mumbai,Home & Kitchen,1,751.47,UPI,2025-03-15,3
+1509,29,Female,Hyderabad,Books,1,473.29,Debit Card,2025-02-22,4
+1385,32,Male,Mumbai,Home & Kitchen,1,1786.25,UPI,2024-07-22,4
+1386,34,Female,Ajmer,Electronics,1,9338.2,Credit Card,2025-07-16,1
+1112,31,Female,Mumbai,Books,1,737.76,Credit Card,2024-03-27,4
+1080,34,Male,Ajmer,Home & Kitchen,4,10624.75,Credit Card,2024-10-04,4
+1112,36,Male,Bengaluru,Beauty,1,475.09,Net Banking,2025-02-19,5
+1001,34,Female,Pune,Clothing,1,565.39,Net Banking,2024-10-06,5
+1219,37,Male,Jaipur,Beauty,1,771.15,UPI,2025-10-25,4
+1565,29,Male,Ajmer,Groceries,4,1175.2,UPI,2024-04-26,4
+1224,27,Male,Ajmer,Beauty,1,144.76,UPI,2025-07-11,2
+1384,23,Female,Hyderabad,Groceries,1,606.93,Debit Card,2024-08-03,4
+1402,42,Male,Mumbai,Beauty,1,967.47,Cash on Delivery,2025-11-17,5
+1129,40,Male,Jaipur,Electronics,2,16573.32,Cash on Delivery,2024-05-26,4
+1052,43,Female,Kolkata,Electronics,1,10525.23,Cash on Delivery,2024-10-03,4
+1415,27,Other,Jaipur,Toys,1,941.47,Credit Card,2024-04-22,2
+1246,47,Female,Ajmer,Electronics,2,6786.79,Cash on Delivery,2024-09-13,5
+1438,25,Male,Delhi,Electronics,1,8677.81,UPI,2024-12-20,4
+1202,46,Female,Hyderabad,Electronics,1,14017.39,Credit Card,2025-10-18,4
+1183,41,Male,Ajmer,Electronics,1,11000.22,UPI,2024-10-21,4
+1122,25,Female,Jaipur,Electronics,1,6493.35,UPI,2025-10-31,5
+1400,16,Female,Pune,Electronics,1,11849.96,Cash on Delivery,2024-01-10,5
+1293,56,Male,Bengaluru,Groceries,1,796.36,Debit Card,2024-01-30,4
+1279,38,Male,Mumbai,Groceries,1,477.85,Debit Card,2024-03-15,3
+1197,24,Female,Jaipur,Beauty,2,1646.13,UPI,2024-03-28,5
+1510,24,Female,Ajmer,Clothing,1,1740.28,Debit Card,2025-09-03,5
+1143,32,Male,Mumbai,Books,1,565.43,UPI,2025-12-29,5
+1200,44,Female,Ahmedabad,Beauty,1,1345.01,Cash on Delivery,2025-06-16,4
+1123,33,Male,Delhi,Sports,1,1101.6,UPI,2024-08-14,4
+1186,47,Male,Chennai,Clothing,2,2092.71,UPI,2024-04-09,4
+1325,16,Male,Ajmer,Home & Kitchen,1,3317.89,UPI,2024-05-28,4
+1463,61,Female,Ajmer,Electronics,2,9648.91,UPI,2025-07-18,3
+1348,17,Female,Ajmer,Electronics,1,4371.79,UPI,2024-01-17,5
+1402,44,Female,Kolkata,Electronics,1,4964.98,Debit Card,2025-11-17,3
+1345,25,Male,Delhi,Clothing,1,1265.16,Credit Card,2025-10-26,5
+1510,16,Female,Mumbai,Electronics,4,35271.34,Debit Card,2025-09-14,4
+1146,47,Male,Pune,Clothing,2,2572.53,Credit Card,2025-05-03,5
+1147,27,Other,Ajmer,Home & Kitchen,1,4907.38,UPI,2025-08-30,4
+1488,43,Female,Hyderabad,Clothing,2,4302.32,UPI,2024-01-25,5
+1550,21,Female,Chennai,Home & Kitchen,1,2746.5,Debit Card,2024-02-18,5
+1337,47,Female,Bengaluru,Electronics,3,15371.39,UPI,2025-08-18,4
+1472,22,Female,Ahmedabad,Groceries,1,562.6,Debit Card,2025-03-28,4
+1150,19,Male,Delhi,Groceries,2,1292.0,Cash on Delivery,2025-09-11,5
+1414,29,Other,Ahmedabad,Electronics,2,19766.74,Cash on Delivery,2024-03-30,4
+1297,31,Male,Kolkata,Electronics,1,3235.2,Credit Card,2025-09-11,5
+1262,34,Male,Ahmedabad,Beauty,2,2211.91,Credit Card,2025-05-09,3
+1143,50,Female,Ahmedabad,Beauty,2,1641.19,Cash on Delivery,2025-07-01,4
+1345,20,Male,Mumbai,Sports,1,2235.25,UPI,2024-12-14,4
+1571,25,Other,Mumbai,Clothing,1,1362.72,Cash on Delivery,2025-08-27,4
+1001,25,Male,Ajmer,Electronics,1,8774.2,UPI,2025-11-15,3
+1303,16,Female,Pune,Clothing,1,1628.45,Credit Card,2024-09-22,5
+1253,25,Male,Ahmedabad,Electronics,1,10387.48,UPI,2024-09-12,4
+1452,40,Female,Hyderabad,Clothing,3,7393.28,Debit Card,2025-07-05,4
+1036,41,Male,Kolkata,Groceries,1,729.35,Credit Card,2024-04-21,5
+1159,16,Female,Chennai,Sports,2,3886.49,Debit Card,2024-01-04,3
+1008,35,Male,Mumbai,Groceries,2,1705.21,Credit Card,2025-05-23,4
+1232,26,Male,Ahmedabad,Clothing,1,1216.39,Debit Card,2025-11-21,2
+1098,27,Female,Hyderabad,Home & Kitchen,1,1534.24,UPI,2025-06-25,4
+1207,43,Female,Jaipur,Clothing,5,7391.14,Cash on Delivery,2025-05-18,5
+1130,21,Male,Delhi,Clothing,1,1268.17,Net Banking,2024-09-10,4
+1403,41,Male,Mumbai,Beauty,1,358.89,Net Banking,2025-12-29,3
+1151,33,Female,Jaipur,Electronics,1,9435.56,Credit Card,2025-01-12,5
+1053,29,Male,Chennai,Electronics,4,40660.45,Debit Card,2025-05-29,3
+1119,42,Male,Delhi,Groceries,1,873.87,Debit Card,2024-05-07,5
+1586,36,Female,Pune,Sports,1,1567.27,Credit Card,2024-06-16,2
+1419,54,Female,Kolkata,Electronics,1,8127.8,Net Banking,2025-07-08,5
+1421,28,Female,Mumbai,Sports,1,1178.8,UPI,2025-01-09,4
+1103,34,Female,Mumbai,Clothing,1,892.91,Debit Card,2025-07-22,5
+1253,18,Female,Mumbai,Electronics,1,9911.28,Debit Card,2025-07-12,4
+1226,27,Other,Chennai,Beauty,1,1022.42,UPI,2025-12-14,5
+1111,33,Female,Ahmedabad,Electronics,1,7144.78,UPI,2024-03-22,5
+1509,16,Male,Delhi,Clothing,1,753.83,Credit Card,2025-09-27,4
+1472,25,Male,Bengaluru,Electronics,1,9394.16,Cash on Delivery,2024-05-27,4
+1098,50,Male,Jaipur,Electronics,1,11992.82,Cash on Delivery,2025-04-25,4
+1152,42,Male,Jaipur,Electronics,1,16076.16,Credit Card,2024-03-19,3
+1337,40,Male,Mumbai,Electronics,3,36479.75,UPI,2024-05-16,4
+1162,32,Female,Chennai,Electronics,1,9591.95,UPI,2025-01-04,5
+1160,42,Female,Ajmer,Sports,1,1567.57,Cash on Delivery,2024-09-04,3
+1579,55,Female,Hyderabad,Clothing,1,1459.09,UPI,2025-03-11,1
+1397,25,Male,Mumbai,Clothing,2,1737.08,Credit Card,2024-11-09,4
+1276,16,Female,Mumbai,Books,1,679.5,Debit Card,2025-05-18,3
+1503,49,Male,Hyderabad,Groceries,3,2290.56,Credit Card,2025-01-24,5
+1391,43,Female,Kolkata,Sports,1,1520.04,Credit Card,2025-07-23,3
+1134,27,Male,Delhi,Home & Kitchen,2,8438.76,Cash on Delivery,2025-10-23,5
+1194,19,Male,Bengaluru,Clothing,1,1405.01,UPI,2024-05-08,5
+1400,53,Male,Jaipur,Electronics,1,4741.6,Credit Card,2024-01-21,5
+1032,42,Female,Delhi,Sports,1,2193.45,Credit Card,2025-06-18,3
+1459,31,Female,Kolkata,Sports,2,3823.95,Credit Card,2025-09-13,4
+1469,41,Female,Kolkata,Electronics,1,8028.92,Debit Card,2025-10-23,4
+1374,37,Male,Mumbai,Groceries,1,652.28,UPI,2024-08-26,4
+1021,40,Male,Jaipur,Electronics,2,10120.41,Credit Card,2025-10-07,5
+1037,38,Female,Mumbai,Clothing,1,317.52,UPI,2024-04-24,3
+1229,60,Male,Jaipur,Electronics,1,9385.47,Debit Card,2025-02-15,4
+1364,33,Male,Hyderabad,Sports,2,3920.31,UPI,2024-12-19,4
+1562,37,Male,Bengaluru,Electronics,1,10957.66,UPI,2025-10-01,5
+1437,22,Female,Hyderabad,Home & Kitchen,2,5064.8,Net Banking,2025-07-27,5
+1282,33,Male,Bengaluru,Home & Kitchen,1,1735.01,UPI,2025-10-29,4
+1026,31,Male,Kolkata,Clothing,1,1980.22,Credit Card,2025-02-16,3
+1225,25,Male,Delhi,Sports,1,1754.26,Cash on Delivery,2025-06-17,4
+1276,40,Male,Chennai,Groceries,1,420.29,Cash on Delivery,2024-11-30,3
+1283,25,Male,Hyderabad,Home & Kitchen,1,2406.39,UPI,2024-05-01,4
+1480,31,Female,Chennai,Sports,1,2268.84,Debit Card,2025-05-18,4
+1452,49,Male,Hyderabad,Sports,1,2098.55,UPI,2025-12-04,5
+1515,51,Male,Mumbai,Clothing,1,671.45,Credit Card,2025-07-29,5
+1546,35,Female,Hyderabad,Clothing,1,1757.86,UPI,2025-09-07,4
+1191,25,Male,Delhi,Books,1,326.27,UPI,2025-05-28,3
+1048,16,Female,Ahmedabad,Groceries,1,102.3,UPI,2024-08-09,3
+1511,48,Female,Delhi,Clothing,1,1254.89,UPI,2025-03-12,5
+1016,41,Male,Jaipur,Electronics,1,10430.55,UPI,2025-11-07,3
+1171,37,Female,Ajmer,Home & Kitchen,2,1870.39,Debit Card,2025-03-30,5
+1219,37,Male,Jaipur,Home & Kitchen,5,14080.78,Credit Card,2024-10-25,5
+1157,40,Male,Ajmer,Groceries,1,850.04,UPI,2025-04-03,4
+1476,37,Male,Mumbai,Home & Kitchen,2,7862.73,Debit Card,2024-04-23,5
+1045,25,Male,Bengaluru,Electronics,1,6717.65,Cash on Delivery,2024-12-04,4
+1372,53,Female,Delhi,Clothing,3,2891.31,UPI,2025-11-25,4
+1517,28,Male,Delhi,Groceries,3,3398.41,Cash on Delivery,2024-01-14,2
+1098,55,Male,Pune,Clothing,1,957.24,Cash on Delivery,2025-02-28,4
+1036,51,Male,Chennai,Clothing,1,1370.38,Credit Card,2025-12-21,5
+1279,39,Female,Hyderabad,Sports,1,2758.22,Net Banking,2024-07-02,5
+1348,36,Female,Chennai,Home & Kitchen,1,3469.02,Credit Card,2024-05-29,5
+1496,36,Female,Jaipur,Home & Kitchen,4,12953.96,UPI,2024-06-03,5
+1301,43,Female,Ahmedabad,Electronics,4,23915.81,Cash on Delivery,2024-09-20,5
+1180,29,Female,Mumbai,Groceries,2,1358.1,Debit Card,2025-05-08,4
+1098,32,Male,Jaipur,Electronics,4,12177.69,Credit Card,2025-09-29,3
+1115,29,Female,Pune,Clothing,1,967.66,Credit Card,2025-02-23,4
+1190,29,Male,Mumbai,Sports,1,2039.09,Credit Card,2025-01-09,5
+1252,22,Male,Delhi,Beauty,1,1031.16,Debit Card,2025-03-21,5
+1160,37,Male,Delhi,Beauty,1,886.44,Debit Card,2024-03-29,4
+1255,46,Female,Kolkata,Clothing,5,7636.06,UPI,2025-01-27,5
+1322,34,Female,Delhi,Home & Kitchen,1,2147.94,UPI,2024-08-14,5
+1127,38,Female,Delhi,Groceries,2,859.78,Cash on Delivery,2025-01-24,4
+1017,30,Male,Pune,Clothing,1,2488.64,UPI,2025-04-30,3
+1565,31,Female,Chennai,Groceries,1,655.13,UPI,2025-02-25,5
+1569,21,Male,Mumbai,Beauty,1,979.39,Debit Card,2024-12-14,5
+1322,39,Male,Jaipur,Clothing,1,730.64,Cash on Delivery,2025-06-08,4
+1287,27,Female,Mumbai,Clothing,1,1262.62,Debit Card,2024-02-27,3
+1154,41,Female,Chennai,Home & Kitchen,2,5363.22,Credit Card,2024-01-02,5
+1489,54,Male,Kolkata,Clothing,1,1257.36,UPI,2025-08-28,3
+1385,35,Female,Pune,Books,1,66.5,UPI,2025-11-22,3
+1103,25,Female,Mumbai,Groceries,1,766.4,Net Banking,2025-10-28,3
+1392,47,Female,Delhi,Beauty,1,724.62,Credit Card,2025-12-25,4
+1245,32,Female,Ajmer,Electronics,2,20279.39,Net Banking,2024-08-14,4
+1175,23,Female,Mumbai,Electronics,1,4056.57,UPI,2024-07-02,4
+1038,37,Male,Mumbai,Clothing,2,2912.06,Cash on Delivery,2024-04-14,4
+1476,49,Female,Mumbai,Electronics,1,7027.97,Debit Card,2025-08-31,5
+1537,28,Male,Kolkata,Electronics,1,4304.98,Credit Card,2025-04-16,4
+1407,43,Female,Jaipur,Electronics,1,7663.24,Credit Card,2024-12-25,4
+1524,23,Female,Delhi,Books,1,764.53,Cash on Delivery,2024-07-01,3
+1505,52,Female,Ahmedabad,Home & Kitchen,1,2064.18,Cash on Delivery,2025-04-25,3
+1035,37,Female,Ajmer,Beauty,1,946.55,UPI,2024-03-10,5
+1019,47,Female,Pune,Books,1,297.66,Net Banking,2025-07-05,4
+1320,39,Male,Ajmer,Home & Kitchen,5,15031.83,UPI,2024-07-15,2
+1511,50,Male,Ajmer,Home & Kitchen,1,3102.12,UPI,2025-03-20,3
+1399,49,Male,Ajmer,Beauty,1,771.74,Debit Card,2025-08-10,4
+1470,22,Male,Pune,Books,2,979.66,UPI,2024-07-26,4
+1142,27,Male,Jaipur,Electronics,2,22645.62,UPI,2024-12-31,3
+1091,36,Male,Hyderabad,Beauty,1,510.79,Debit Card,2025-12-09,5
+1353,37,Male,Ajmer,Groceries,1,1069.72,UPI,2024-05-25,4
+1050,26,Female,Bengaluru,Beauty,1,625.58,Credit Card,2025-09-03,4
+1574,26,Female,Kolkata,Toys,1,179.84,UPI,2024-05-07,4
+1189,32,Male,Jaipur,Electronics,1,5825.97,Net Banking,2024-10-10,4
+1124,28,Male,Mumbai,Toys,2,1557.48,Debit Card,2025-08-05,5
+1149,36,Female,Pune,Clothing,1,1532.51,Net Banking,2025-02-26,5
+1313,30,Male,Chennai,Groceries,1,665.77,Net Banking,2024-01-06,3
+1569,33,Male,Bengaluru,Clothing,1,1785.11,UPI,2024-04-15,1
+1341,50,Female,Mumbai,Home & Kitchen,1,1807.85,Net Banking,2025-05-29,5
+1304,32,Male,Delhi,Clothing,2,1090.32,Credit Card,2024-03-09,4
+1053,16,Female,Jaipur,Electronics,2,24072.44,UPI,2025-05-08,4
+1443,45,Female,Jaipur,Clothing,4,7978.38,Credit Card,2025-05-17,3
+1263,23,Male,Ajmer,Books,1,276.53,Credit Card,2025-04-27,1
+1052,31,Female,Chennai,Clothing,1,1214.92,Credit Card,2025-10-03,2
+1571,60,Male,Hyderabad,Electronics,1,12161.0,UPI,2024-05-20,5
+1004,27,Male,Jaipur,Sports,1,2271.63,Cash on Delivery,2024-06-23,5
+1102,16,Male,Mumbai,Clothing,1,1020.09,UPI,2024-03-04,3
+1195,35,Male,Hyderabad,Clothing,1,1615.56,UPI,2024-01-30,4
+1349,23,Female,Pune,Clothing,1,1491.96,Cash on Delivery,2025-07-03,3
+1046,44,Male,Pune,Sports,2,4342.5,Debit Card,2025-11-07,2
+1268,33,Male,Bengaluru,Electronics,2,13018.74,Credit Card,2024-07-07,4
+1369,16,Female,Pune,Home & Kitchen,1,435.3,UPI,2024-04-16,3
+1105,40,Male,Jaipur,Groceries,1,1183.03,UPI,2024-06-29,5
+1119,40,Female,Ajmer,Electronics,2,13464.79,Cash on Delivery,2024-01-12,3
+1057,41,Male,Mumbai,Home & Kitchen,1,2444.55,UPI,2024-08-24,4
+1345,24,Male,Delhi,Books,1,674.93,Debit Card,2025-05-19,3
+1473,34,Male,Delhi,Groceries,1,534.55,Credit Card,2024-03-18,4
+1116,38,Female,Jaipur,Electronics,2,24202.62,Debit Card,2025-12-28,4
+1126,32,Female,Jaipur,Beauty,1,1177.89,Debit Card,2024-12-21,4
+1392,43,Female,Pune,Home & Kitchen,1,2002.74,Debit Card,2025-03-27,4
+1057,32,Female,Ajmer,Home & Kitchen,1,1448.09,Cash on Delivery,2025-07-11,3
+1512,36,Female,Ajmer,Clothing,1,1510.31,UPI,2024-09-01,5
+1095,19,Female,Ajmer,Groceries,1,418.11,Cash on Delivery,2024-07-19,4
+1117,29,Male,Pune,Toys,1,1034.58,Debit Card,2025-08-30,3
+1559,33,Female,Bengaluru,Sports,2,3995.63,Cash on Delivery,2024-02-27,4
+1487,32,Male,Chennai,Home & Kitchen,2,986.44,UPI,2025-12-09,4
+1236,46,Female,Hyderabad,Sports,1,2564.19,UPI,2025-10-14,4
+1271,25,Male,Delhi,Beauty,1,1277.36,Debit Card,2025-09-18,4
+1188,46,Female,Ajmer,Electronics,1,15424.13,Credit Card,2025-10-27,3
+1446,34,Female,Mumbai,Clothing,1,1563.12,UPI,2024-08-19,4
+1580,26,Female,Ahmedabad,Groceries,4,3515.96,UPI,2025-01-15,5
+1246,47,Male,Delhi,Beauty,3,1431.17,UPI,2024-08-02,5
+1075,42,Male,Mumbai,Sports,1,532.97,UPI,2025-06-30,4
+1153,21,Male,Ajmer,Books,1,146.28,UPI,2025-07-29,4
+1434,23,Male,Delhi,Beauty,1,92.54,Credit Card,2025-03-16,4
+1085,16,Male,Mumbai,Electronics,2,25538.43,Debit Card,2025-03-02,4
+1284,25,Female,Ajmer,Clothing,1,1074.56,Debit Card,2025-06-27,5
+1219,16,Female,Jaipur,Electronics,1,5430.96,UPI,2024-10-30,4
+1068,37,Female,Jaipur,Clothing,1,50.0,Net Banking,2024-03-30,3
+1046,40,Female,Ajmer,Clothing,3,2428.52,UPI,2024-02-02,3
+1093,39,Male,Mumbai,Sports,1,2722.6,Credit Card,2024-04-26,4
+1452,20,Male,Ajmer,Home & Kitchen,1,4029.3,Cash on Delivery,2024-12-29,2
+1203,38,Female,Bengaluru,Clothing,2,2801.48,Net Banking,2024-05-13,4
+1217,30,Male,Jaipur,Sports,1,1775.44,Credit Card,2025-03-08,4
+1473,49,Male,Bengaluru,Clothing,1,1466.03,UPI,2025-01-21,3
+1431,28,Male,Ajmer,Clothing,1,597.54,UPI,2024-05-01,3
+1340,25,Female,Ajmer,Home & Kitchen,1,2509.47,UPI,2024-11-28,3
+1550,16,Male,Mumbai,Home & Kitchen,3,11554.51,UPI,2024-12-10,3
+1288,34,Female,Jaipur,Clothing,3,2072.73,Cash on Delivery,2025-06-13,5
+1253,31,Male,Pune,Electronics,2,12791.26,Credit Card,2024-05-16,4
+1356,35,Male,Hyderabad,Clothing,1,1443.56,Debit Card,2024-04-27,4
+1022,38,Male,Ajmer,Clothing,1,553.74,Net Banking,2025-03-14,5
+1521,34,Female,Jaipur,Clothing,1,1224.57,UPI,2025-05-16,3
+1099,27,Male,Hyderabad,Clothing,1,1596.35,UPI,2024-02-06,4
+1179,31,Other,Bengaluru,Clothing,1,686.42,UPI,2025-02-22,4
+1222,27,Male,Pune,Groceries,1,318.27,UPI,2025-04-07,3
+1441,62,Male,Bengaluru,Clothing,1,548.06,UPI,2024-02-19,2
+1324,22,Female,Hyderabad,Clothing,1,1788.68,Credit Card,2024-06-25,3
+1515,28,Male,Bengaluru,Groceries,1,223.71,Debit Card,2024-09-05,3
+1015,31,Male,Ajmer,Electronics,1,6043.77,UPI,2024-08-28,4
+1335,30,Male,Pune,Clothing,1,935.25,UPI,2024-08-08,5
+1257,51,Male,Kolkata,Home & Kitchen,1,2061.25,Credit Card,2025-03-14,4
+1496,56,Male,Bengaluru,Electronics,2,7237.53,Net Banking,2024-01-10,4
+1159,26,Female,Delhi,Sports,1,1138.95,Credit Card,2024-05-16,3
+1474,24,Female,Bengaluru,Beauty,2,928.75,UPI,2025-08-27,5
+1379,41,Male,Ajmer,Clothing,1,1025.32,Cash on Delivery,2025-05-23,1
+1544,29,Female,Mumbai,Books,1,204.68,Credit Card,2025-07-25,3
+1426,34,Female,Kolkata,Clothing,1,1253.46,Net Banking,2025-03-09,4
+1267,33,Male,Pune,Beauty,1,1074.8,Debit Card,2024-07-10,4
+1576,43,Male,Chennai,Sports,2,3665.69,Net Banking,2024-09-26,3
+1416,32,Male,Mumbai,Electronics,1,9464.98,UPI,2025-08-14,5
+1167,29,Male,Chennai,Sports,1,2316.44,Net Banking,2024-08-02,5
+1042,29,Male,Pune,Clothing,1,1127.11,Debit Card,2024-03-15,5
+1555,47,Male,Hyderabad,Sports,2,1788.67,Cash on Delivery,2025-09-12,5
+1284,43,Male,Jaipur,Sports,2,5257.76,Credit Card,2025-04-08,5
+1396,21,Female,Chennai,Groceries,1,505.55,Credit Card,2025-01-17,4
+1011,25,Male,Hyderabad,Books,1,50.0,Credit Card,2024-02-19,4
+1301,28,Female,Mumbai,Sports,1,1650.0,Debit Card,2024-12-26,3
+1252,34,Male,Ahmedabad,Books,1,512.57,Debit Card,2024-11-29,4
+1498,16,Male,Kolkata,Groceries,5,4131.05,UPI,2024-11-05,4
+1034,45,Female,Bengaluru,Groceries,2,1131.8,UPI,2024-11-01,4
+1089,20,Male,Jaipur,Beauty,1,66.19,UPI,2024-11-20,3
+1417,25,Female,Kolkata,Electronics,1,16474.06,UPI,2025-11-04,3
+1114,37,Male,Delhi,Electronics,1,8537.79,UPI,2025-06-27,5
+1195,42,Female,Kolkata,Electronics,1,5374.53,Debit Card,2025-09-16,4
+1500,27,Female,Delhi,Home & Kitchen,2,7186.47,UPI,2025-05-13,2
+1492,27,Male,Chennai,Clothing,2,2439.8,UPI,2024-03-08,5
+1074,23,Female,Ajmer,Clothing,1,1825.68,Debit Card,2025-02-14,1
+1412,22,Female,Jaipur,Electronics,1,5472.49,Credit Card,2025-09-02,4
+1375,38,Female,Chennai,Beauty,1,882.15,UPI,2025-02-05,3
+1419,22,Female,Jaipur,Beauty,1,478.0,Credit Card,2025-04-26,5
+1276,39,Male,Bengaluru,Electronics,2,13005.94,Cash on Delivery,2025-05-06,4
+1393,17,Male,Ajmer,Sports,2,3472.82,UPI,2025-01-25,3
+1456,23,Male,Mumbai,Clothing,1,712.38,UPI,2024-01-10,3
+1191,47,Male,Pune,Clothing,1,1103.62,UPI,2024-07-29,4
+1098,28,Male,Mumbai,Toys,1,673.51,Cash on Delivery,2025-09-12,5
+1547,37,Female,Bengaluru,Sports,1,1329.92,UPI,2024-06-02,5
+1095,49,Female,Delhi,Groceries,1,932.16,UPI,2024-02-12,2
+1189,20,Female,Pune,Clothing,2,1336.34,Credit Card,2024-05-05,3
+1036,39,Female,Pune,Groceries,1,582.52,Cash on Delivery,2025-07-27,5
+1368,32,Female,Chennai,Electronics,1,3413.91,Credit Card,2024-08-02,4
+1524,35,Male,Chennai,Beauty,1,634.09,Debit Card,2024-12-09,3
+1278,28,Male,Kolkata,Electronics,1,7155.08,UPI,2024-12-02,3
+1216,54,Male,Hyderabad,Clothing,1,1977.15,UPI,2024-09-30,5
+1272,42,Male,Jaipur,Books,1,159.94,Credit Card,2025-01-10,4
+1061,31,Male,Jaipur,Beauty,1,298.85,Cash on Delivery,2024-04-01,4
+1595,29,Male,Kolkata,Groceries,1,710.99,Debit Card,2025-10-04,4
+1341,29,Female,Chennai,Books,2,1260.59,UPI,2024-07-07,5
+1396,29,Male,Ajmer,Clothing,1,1180.03,UPI,2024-05-27,3
+1018,37,Male,Jaipur,Clothing,1,1978.19,UPI,2025-03-11,4
+1176,51,Female,Chennai,Clothing,1,493.88,Cash on Delivery,2025-09-01,4
+1395,16,Male,Ajmer,Electronics,1,9355.75,Debit Card,2024-10-30,4
+1444,39,Female,Pune,Beauty,1,640.57,Net Banking,2025-11-04,5
+1232,26,Female,Jaipur,Electronics,1,19704.65,Net Banking,2024-03-11,4
+1075,19,Female,Chennai,Electronics,1,9239.78,Debit Card,2025-01-21,3
+1264,37,Male,Pune,Electronics,1,13881.92,Credit Card,2024-09-23,5
+1454,35,Male,Mumbai,Clothing,1,1315.5,UPI,2025-06-29,2
+1383,27,Female,Mumbai,Groceries,1,687.15,UPI,2024-04-15,5
+1563,36,Male,Ajmer,Electronics,1,10845.35,UPI,2024-09-23,4
+1505,31,Male,Bengaluru,Clothing,2,4801.58,UPI,2024-01-08,5
+1366,35,Male,Chennai,Beauty,1,50.0,Net Banking,2024-01-20,5
+1143,16,Male,Hyderabad,Electronics,3,24273.19,UPI,2025-01-12,2
+1068,27,Male,Mumbai,Home & Kitchen,1,2669.0,Debit Card,2024-02-08,4
+1098,25,Male,Ajmer,Sports,1,1708.75,Debit Card,2024-06-28,4
+1395,33,Male,Chennai,Clothing,2,2762.95,UPI,2025-03-30,4
+1024,28,Female,Delhi,Electronics,1,10227.74,UPI,2025-09-13,4
+1468,43,Female,Jaipur,Clothing,1,1330.46,Cash on Delivery,2024-06-09,4
+1483,22,Female,Pune,Groceries,1,838.85,UPI,2024-05-19,5
+1564,33,Male,Kolkata,Home & Kitchen,1,1811.11,UPI,2024-03-30,4
+1150,36,Female,Kolkata,Beauty,1,750.35,UPI,2025-09-30,4
+1143,35,Male,Ajmer,Home & Kitchen,2,6419.57,Net Banking,2025-05-31,3
+1568,23,Female,Mumbai,Sports,1,2473.95,UPI,2024-12-20,4
+1038,40,Male,Delhi,Clothing,1,861.73,UPI,2025-05-10,3
+1108,46,Other,Jaipur,Toys,2,1292.19,Debit Card,2025-11-01,1
+1041,33,Female,Chennai,Books,3,1077.29,Credit Card,2025-11-24,4
+1185,31,Male,Delhi,Sports,1,845.14,Credit Card,2024-03-11,5
+1397,40,Male,Hyderabad,Electronics,1,6112.34,Debit Card,2024-01-04,5
+1222,32,Female,Delhi,Clothing,2,2042.33,UPI,2025-05-24,3
+1132,46,Female,Delhi,Home & Kitchen,1,1722.63,UPI,2025-08-10,3
+1162,24,Female,Pune,Electronics,1,3444.57,Cash on Delivery,2024-03-30,4
+1214,24,Male,Hyderabad,Clothing,1,2063.39,UPI,2024-09-03,5
+1234,52,Male,Mumbai,Groceries,1,612.67,Cash on Delivery,2025-11-27,5
+1587,32,Female,Delhi,Clothing,1,1730.37,Cash on Delivery,2025-05-17,4
+1008,40,Female,Jaipur,Electronics,1,9213.49,Credit Card,2024-05-24,4
+1073,29,Female,Jaipur,Electronics,1,10540.22,Debit Card,2024-01-07,1
+1491,31,Male,Chennai,Electronics,1,5852.34,UPI,2025-01-28,3
+1252,48,Female,Bengaluru,Electronics,2,9832.38,Cash on Delivery,2024-02-18,1
+1229,28,Male,Delhi,Home & Kitchen,2,5718.95,UPI,2025-11-03,3
+1518,47,Female,Chennai,Toys,3,3757.66,Debit Card,2024-03-11,4
+1173,41,Male,Ahmedabad,Groceries,4,2575.23,UPI,2025-09-23,4
+1167,37,Female,Chennai,Beauty,1,854.6,UPI,2025-07-05,3
+1169,39,Male,Jaipur,Clothing,4,200.0,Credit Card,2024-07-16,4
+1392,43,Male,Ajmer,Sports,1,1905.49,Cash on Delivery,2024-02-11,5
+1193,55,Female,Hyderabad,Clothing,1,1367.79,Cash on Delivery,2025-07-04,4
+1516,33,Female,Pune,Clothing,1,1765.69,UPI,2024-02-26,4
+1028,35,Male,Chennai,Clothing,2,384.12,UPI,2025-06-05,3
+1164,16,Male,Ahmedabad,Home & Kitchen,1,3091.42,Cash on Delivery,2025-03-03,4
+1421,36,Female,Delhi,Electronics,2,19684.35,Debit Card,2024-07-18,5
+1338,42,Female,Ahmedabad,Groceries,1,529.98,Debit Card,2024-10-05,3
+1495,30,Male,Chennai,Electronics,3,21651.03,UPI,2025-09-11,3
+1364,19,Female,Bengaluru,Toys,2,210.74,Debit Card,2024-09-08,4
+1341,31,Male,Delhi,Toys,1,699.44,Debit Card,2024-11-21,5
+1499,17,Male,Ajmer,Toys,1,641.63,Credit Card,2025-06-02,3
+1510,23,Female,Hyderabad,Beauty,1,1236.25,Credit Card,2025-04-30,5
+1326,21,Female,Bengaluru,Beauty,1,578.58,Cash on Delivery,2025-02-23,4
+1216,35,Female,Ajmer,Clothing,2,2076.91,Debit Card,2025-01-01,3
+1300,36,Male,Ahmedabad,Books,1,503.76,Cash on Delivery,2025-05-07,4
+1131,38,Female,Mumbai,Groceries,2,1947.3,Debit Card,2024-07-02,4
+1069,29,Female,Ajmer,Groceries,1,1019.37,Debit Card,2025-06-15,4
+1251,31,Female,Ajmer,Books,1,148.88,Cash on Delivery,2024-03-10,4
+1414,36,Female,Delhi,Electronics,1,10546.74,UPI,2025-09-17,4
+1444,35,Female,Ajmer,Groceries,1,522.26,Debit Card,2025-11-18,5
+1181,30,Female,Bengaluru,Groceries,1,552.46,UPI,2025-01-09,4
+1166,38,Male,Pune,Clothing,1,920.49,UPI,2025-07-12,3
+1090,40,Male,Pune,Sports,2,3384.82,UPI,2024-12-14,5
+1530,31,Female,Delhi,Beauty,5,2266.12,UPI,2024-07-21,5
+1038,39,Other,Pune,Electronics,3,34290.53,UPI,2025-04-30,4
+1125,32,Female,Ajmer,Home & Kitchen,1,2382.79,Net Banking,2024-08-17,5
+1450,18,Male,Bengaluru,Electronics,1,11330.93,Cash on Delivery,2024-08-05,4
+1172,47,Female,Jaipur,Clothing,1,1654.02,Credit Card,2025-02-24,3
+1219,33,Female,Kolkata,Beauty,1,1033.49,UPI,2024-08-04,5
+1057,37,Female,Jaipur,Electronics,2,5896.48,Cash on Delivery,2024-09-20,5
+1475,16,Female,Bengaluru,Electronics,1,5563.66,Net Banking,2024-03-24,3
+1455,40,Male,Delhi,Electronics,1,7594.3,UPI,2025-01-07,4
+1360,46,Female,Mumbai,Electronics,1,2532.31,UPI,2025-12-27,4
+1000,37,Female,Mumbai,Home & Kitchen,1,3164.75,Debit Card,2025-08-21,4
+1386,37,Female,Pune,Beauty,1,1362.17,UPI,2025-02-07,5
+1347,43,Female,Mumbai,Toys,1,316.86,Credit Card,2024-02-15,5
+1189,40,Female,Ajmer,Groceries,4,1168.73,Credit Card,2025-04-28,5
+1504,38,Female,Jaipur,Electronics,2,9871.56,UPI,2024-04-24,5
+1190,32,Female,Jaipur,Sports,1,2701.7,Credit Card,2025-03-30,3
+1507,55,Male,Jaipur,Groceries,2,1427.78,UPI,2024-02-05,3
+1368,32,Female,Chennai,Electronics,1,5079.01,Credit Card,2024-06-29,4
+1408,32,Male,Jaipur,Electronics,1,7228.63,Debit Card,2025-09-06,1
+1116,38,Male,Jaipur,Groceries,1,50.0,Debit Card,2024-02-28,4
+1133,28,Female,Kolkata,Clothing,2,2064.05,Debit Card,2025-01-22,4
+1057,16,Female,Mumbai,Beauty,1,204.02,Cash on Delivery,2024-12-27,5
+1555,32,Female,Jaipur,Books,1,439.67,UPI,2025-09-23,5
+1172,21,Female,Delhi,Electronics,4,45458.73,Cash on Delivery,2025-09-17,4
+1148,31,Male,Chennai,Toys,1,821.6,Credit Card,2024-04-01,3
+1079,35,Male,Pune,Toys,2,1315.62,Debit Card,2025-08-01,3
+1212,42,Other,Mumbai,Electronics,1,6129.74,Debit Card,2025-06-20,5
+1202,38,Male,Hyderabad,Beauty,1,571.57,Debit Card,2024-04-15,5
+1228,25,Male,Mumbai,Home & Kitchen,1,3047.3,Credit Card,2025-01-31,2
+1226,44,Female,Mumbai,Clothing,2,2748.04,Cash on Delivery,2025-06-06,4
+1531,21,Male,Ajmer,Electronics,1,7188.24,Cash on Delivery,2024-09-11,3
+1440,43,Female,Ahmedabad,Electronics,1,8914.64,UPI,2024-11-23,4
+1401,35,Female,Delhi,Groceries,2,1449.14,Credit Card,2024-08-16,5
+1046,41,Female,Bengaluru,Clothing,2,1850.23,Debit Card,2024-10-08,4
+1232,26,Female,Hyderabad,Electronics,1,8192.82,Cash on Delivery,2025-11-18,4
+1304,42,Female,Chennai,Groceries,1,630.87,UPI,2025-03-21,3
+1525,31,Female,Ahmedabad,Groceries,1,750.39,UPI,2025-03-30,3
+1142,33,Male,Jaipur,Clothing,2,3131.22,Credit Card,2024-08-13,5
+1414,40,Male,Ajmer,Toys,1,50.0,UPI,2024-11-18,4
+1512,39,Female,Ajmer,Clothing,1,1190.32,Credit Card,2025-12-20,5
+1372,50,Male,Pune,Clothing,1,864.24,Debit Card,2025-07-07,5
+1565,25,Other,Hyderabad,Clothing,2,2140.58,Debit Card,2024-08-19,3
+1258,38,Male,Pune,Electronics,1,6372.6,UPI,2025-08-21,3
+1470,34,Female,Ajmer,Electronics,1,4357.18,UPI,2024-03-16,5
+1011,36,Male,Ahmedabad,Electronics,1,3268.55,Cash on Delivery,2025-12-28,5
+1329,26,Male,Ahmedabad,Groceries,2,464.4,UPI,2025-06-22,5
+1357,45,Female,Ajmer,Groceries,1,724.32,UPI,2025-06-20,4
+1407,33,Female,Jaipur,Home & Kitchen,1,4088.51,Credit Card,2025-01-05,4
+1372,39,Female,Jaipur,Electronics,3,38084.76,Credit Card,2024-03-09,4
+1007,27,Male,Bengaluru,Groceries,2,1383.42,Credit Card,2025-07-04,5
+1121,35,Male,Ajmer,Groceries,1,643.39,Credit Card,2025-11-30,4
+1347,26,Female,Pune,Clothing,1,1546.51,UPI,2025-05-30,4
+1089,31,Male,Jaipur,Beauty,1,529.5,Net Banking,2024-06-01,3
+1315,16,Female,Mumbai,Groceries,1,502.34,UPI,2025-04-10,4
+1177,37,Female,Delhi,Clothing,1,1339.95,UPI,2025-09-23,4
+1539,25,Male,Jaipur,Books,1,394.29,Debit Card,2025-01-17,3
+1040,42,Female,Mumbai,Electronics,1,9181.2,Debit Card,2024-10-14,3
+1501,51,Male,Jaipur,Beauty,2,1614.56,Credit Card,2025-07-20,4
+1144,41,Female,Ajmer,Sports,1,1221.16,Credit Card,2025-09-25,4
+1200,27,Male,Jaipur,Groceries,1,394.08,Debit Card,2025-12-03,5
+1460,41,Female,Bengaluru,Clothing,5,5522.76,UPI,2024-06-30,4
+1557,40,Male,Bengaluru,Clothing,1,1497.47,Credit Card,2025-04-07,5
+1546,27,Male,Pune,Home & Kitchen,2,3023.63,UPI,2025-05-18,5
+1252,28,Male,Hyderabad,Electronics,5,45453.89,Credit Card,2025-01-29,4
+1389,26,Female,Ajmer,Electronics,2,16364.33,Credit Card,2024-07-29,4
+1593,42,Male,Ajmer,Beauty,1,895.47,Cash on Delivery,2025-09-24,5
+1255,35,Female,Ajmer,Sports,1,1424.07,UPI,2025-09-03,4
+1449,47,Male,Bengaluru,Groceries,1,379.45,Credit Card,2025-02-19,5
+1009,25,Female,Jaipur,Home & Kitchen,3,6256.88,UPI,2025-12-15,4
+1241,34,Male,Jaipur,Beauty,1,1249.78,Cash on Delivery,2024-10-06,4
+1250,37,Male,Jaipur,Books,1,571.57,Credit Card,2024-03-03,4
+1004,38,Male,Hyderabad,Electronics,1,6576.17,Debit Card,2025-04-30,5
+1118,28,Male,Bengaluru,Books,1,688.55,UPI,2025-08-17,4
+1373,43,Female,Kolkata,Books,2,1031.73,Credit Card,2024-10-30,4
+1064,29,Female,Ajmer,Electronics,1,6571.96,UPI,2025-06-22,1
+1145,46,Male,Pune,Home & Kitchen,1,308.75,Net Banking,2024-01-22,3
+1223,38,Male,Ajmer,Clothing,3,3601.02,UPI,2024-12-14,4
+1238,53,Male,Jaipur,Clothing,2,3398.46,Net Banking,2025-04-24,5
+1176,23,Female,Bengaluru,Sports,1,2282.26,UPI,2025-01-10,5
+1281,45,Female,Hyderabad,Clothing,1,618.87,Credit Card,2025-11-05,5
+1062,22,Female,Mumbai,Clothing,1,198.77,UPI,2025-11-17,4
+1216,23,Male,Mumbai,Electronics,1,11646.84,UPI,2024-04-24,4
+1460,16,Male,Ajmer,Electronics,1,10186.31,Cash on Delivery,2025-11-19,2
+1104,37,Male,Bengaluru,Clothing,1,2055.58,UPI,2024-09-09,3
+1098,42,Male,Pune,Sports,1,882.55,UPI,2025-03-15,4
+1510,27,Female,Bengaluru,Books,1,453.94,Cash on Delivery,2024-11-28,4
+1384,33,Female,Jaipur,Groceries,1,423.57,UPI,2024-08-10,4
+1404,20,Female,Pune,Home & Kitchen,1,2956.24,UPI,2024-08-27,2
+1517,45,Other,Kolkata,Beauty,1,1390.46,UPI,2024-04-28,4
+1475,32,Male,Hyderabad,Home & Kitchen,1,1687.18,Cash on Delivery,2024-05-15,4
+1436,38,Male,Kolkata,Clothing,2,3198.37,Cash on Delivery,2025-05-18,1
+1022,16,Male,Hyderabad,Clothing,1,855.15,Credit Card,2025-11-18,4
+1564,35,Male,Bengaluru,Toys,1,763.48,UPI,2024-06-30,3
+1457,26,Female,Chennai,Groceries,1,952.4,Credit Card,2025-09-24,4
+1082,37,Female,Bengaluru,Electronics,1,12729.83,Credit Card,2024-07-10,3
+1144,21,Male,Jaipur,Toys,1,860.29,UPI,2024-02-03,2
+1084,61,Female,Ajmer,Beauty,5,4462.39,Debit Card,2024-05-07,4
+1077,25,Female,Kolkata,Beauty,1,924.51,UPI,2025-01-13,4
+1456,47,Female,Pune,Groceries,1,777.51,UPI,2024-06-29,4
+1000,41,Female,Delhi,Groceries,1,597.02,UPI,2024-05-08,4
+1050,44,Female,Delhi,Electronics,1,7558.33,UPI,2024-01-11,2
+1445,19,Female,Bengaluru,Clothing,1,1655.28,Debit Card,2024-12-18,5
+1448,34,Other,Jaipur,Sports,1,2831.46,UPI,2024-07-14,3
+1487,27,Female,Ajmer,Toys,1,850.2,Credit Card,2024-03-17,5
+1033,29,Female,Mumbai,Clothing,1,1059.8,Cash on Delivery,2024-12-24,5
+1347,37,Female,Bengaluru,Clothing,1,1240.34,UPI,2024-07-11,4
+1094,31,Male,Mumbai,Groceries,2,657.51,UPI,2025-12-18,3
+1071,40,Female,Bengaluru,Home & Kitchen,1,2142.63,UPI,2024-01-06,4
+1550,16,Male,Delhi,Groceries,2,1723.66,Credit Card,2024-05-28,5
+1153,41,Female,Bengaluru,Home & Kitchen,1,2306.08,Cash on Delivery,2025-10-23,4
+1249,27,Male,Jaipur,Beauty,1,885.13,UPI,2024-11-14,4
+1437,42,Male,Ajmer,Beauty,1,824.03,Cash on Delivery,2025-03-23,5
+1117,22,Male,Ajmer,Groceries,2,1229.92,Cash on Delivery,2024-07-04,4
+1305,35,Male,Bengaluru,Home & Kitchen,1,2081.77,UPI,2025-12-28,3
+1267,29,Female,Bengaluru,Sports,1,50.0,Credit Card,2024-06-18,5
+1053,48,Male,Bengaluru,Books,1,404.63,Cash on Delivery,2024-10-13,4
+1235,32,Female,Hyderabad,Beauty,1,596.72,UPI,2025-09-12,5
+1388,37,Male,Chennai,Electronics,1,10115.53,Cash on Delivery,2024-03-24,4
+1400,25,Male,Ajmer,Clothing,1,655.76,UPI,2024-05-27,5
+1302,28,Male,Kolkata,Clothing,1,1099.88,Net Banking,2024-10-18,3
+1206,37,Female,Jaipur,Groceries,1,832.34,UPI,2024-06-11,4
+1228,17,Male,Bengaluru,Electronics,1,3959.14,Net Banking,2025-02-19,4
+1577,43,Female,Mumbai,Sports,2,5363.11,Debit Card,2024-11-03,3
+1074,46,Male,Chennai,Clothing,1,1060.45,Debit Card,2024-04-14,4
+1434,29,Male,Ajmer,Electronics,1,6949.93,UPI,2025-01-05,2
+1102,31,Male,Bengaluru,Electronics,4,47791.67,Debit Card,2024-08-26,4
+1421,23,Male,Bengaluru,Books,3,1106.31,Credit Card,2025-06-28,5
+1305,40,Male,Chennai,Beauty,2,2661.98,Cash on Delivery,2025-03-16,5
+1097,34,Male,Bengaluru,Electronics,1,4752.1,Cash on Delivery,2024-06-10,5
+1334,22,Female,Jaipur,Electronics,3,14628.03,Debit Card,2024-01-14,4
+1434,17,Male,Mumbai,Groceries,1,764.85,Net Banking,2024-04-13,3
+1446,22,Male,Delhi,Groceries,1,661.71,UPI,2024-12-08,5
+1307,38,Male,Bengaluru,Sports,1,2055.62,Debit Card,2025-08-14,3
+1248,29,Male,Ajmer,Home & Kitchen,1,2172.06,UPI,2024-11-15,5
+1165,28,Male,Mumbai,Clothing,1,1962.69,Net Banking,2024-01-20,5
+1480,26,Female,Bengaluru,Books,2,904.78,UPI,2024-02-12,5
+1334,24,Female,Ajmer,Groceries,1,784.82,Credit Card,2024-11-01,2
+1541,43,Female,Kolkata,Electronics,1,8074.23,Debit Card,2024-10-02,4
+1105,51,Female,Hyderabad,Groceries,1,759.33,Debit Card,2025-03-20,4
+1562,46,Male,Mumbai,Books,3,552.71,UPI,2025-06-14,5
+1080,26,Male,Hyderabad,Clothing,1,899.62,Debit Card,2025-11-11,2
+1132,17,Male,Chennai,Groceries,2,1752.13,Credit Card,2024-06-04,1
+1137,46,Female,Ajmer,Books,1,470.98,Credit Card,2024-11-26,4
+1183,32,Male,Kolkata,Sports,1,67.51,Credit Card,2024-09-09,3
+1400,35,Female,Jaipur,Electronics,2,13791.06,Debit Card,2025-12-02,5
+1329,36,Female,Mumbai,Beauty,1,1115.87,UPI,2024-04-03,5
+1507,55,Female,Ajmer,Clothing,1,1747.19,UPI,2025-09-05,4
+1068,20,Female,Ajmer,Groceries,1,610.07,Credit Card,2025-01-16,4
+1545,37,Female,Pune,Electronics,1,8798.14,UPI,2025-10-14,5
+1052,37,Female,Ajmer,Groceries,1,551.78,Cash on Delivery,2024-06-25,5
+1449,34,Male,Delhi,Toys,1,867.42,UPI,2025-12-18,5
+1204,31,Female,Ajmer,Electronics,2,23103.85,UPI,2025-08-09,3
+1125,17,Female,Ajmer,Home & Kitchen,1,1246.66,UPI,2024-03-13,5
+1042,27,Female,Delhi,Electronics,1,2374.22,Credit Card,2025-10-23,4
+1110,22,Female,Hyderabad,Sports,1,170.12,Debit Card,2024-05-12,5
+1182,20,Male,Bengaluru,Electronics,1,3190.81,Debit Card,2024-05-01,3
+1094,51,Male,Ajmer,Electronics,2,21056.81,Cash on Delivery,2024-07-27,4
+1373,39,Male,Delhi,Electronics,1,12163.01,Cash on Delivery,2025-10-01,5
+1519,42,Other,Delhi,Sports,1,835.21,Cash on Delivery,2025-07-28,4
+1359,28,Male,Pune,Electronics,2,24499.56,Cash on Delivery,2025-11-19,5
+1280,32,Male,Chennai,Clothing,1,674.51,UPI,2024-05-23,5
+1194,38,Female,Kolkata,Books,2,809.22,UPI,2024-05-31,4
+1194,21,Male,Jaipur,Books,1,164.06,UPI,2025-03-22,3
+1092,32,Male,Jaipur,Clothing,1,1212.14,UPI,2025-08-22,4
+1060,33,Male,Hyderabad,Groceries,1,648.46,Credit Card,2024-07-28,4
+1050,32,Female,Pune,Groceries,1,126.3,Cash on Delivery,2024-03-07,4
+1402,34,Female,Kolkata,Sports,1,803.22,Credit Card,2025-03-22,5
+1004,50,Male,Bengaluru,Electronics,1,7862.53,Net Banking,2025-04-10,3
+1465,55,Female,Jaipur,Groceries,1,490.69,UPI,2024-09-25,5
+1533,29,Female,Bengaluru,Electronics,2,29489.94,UPI,2025-05-24,4
+1404,48,Male,Ajmer,Toys,2,1725.85,Cash on Delivery,2024-04-16,4
+1512,23,Female,Hyderabad,Electronics,1,11217.29,Cash on Delivery,2025-09-26,4
+1232,38,Male,Mumbai,Books,2,704.98,Net Banking,2024-05-01,2
+1523,36,Male,Hyderabad,Clothing,1,1194.17,UPI,2025-07-26,4
+1345,16,Male,Delhi,Electronics,3,5871.62,Credit Card,2025-06-22,4
+1045,19,Female,Chennai,Groceries,3,1814.48,Credit Card,2024-04-23,5
+1545,43,Female,Ajmer,Books,1,508.32,Debit Card,2024-07-29,4
+1077,31,Male,Jaipur,Clothing,1,1883.4,UPI,2024-07-21,3
+1072,38,Male,Delhi,Groceries,2,1221.81,Cash on Delivery,2025-09-16,5
+1248,32,Male,Delhi,Electronics,1,7918.89,UPI,2025-03-17,5
+1046,34,Male,Hyderabad,Sports,1,1579.25,Credit Card,2024-03-05,5
+1120,38,Male,Mumbai,Groceries,2,1074.36,Credit Card,2024-05-20,5
+1213,44,Male,Delhi,Clothing,1,936.92,UPI,2025-10-01,4
+1238,35,Female,Pune,Electronics,1,7831.98,UPI,2024-02-29,5
+1055,34,Female,Chennai,Sports,1,2545.2,Cash on Delivery,2024-09-24,5
+1349,20,Male,Ahmedabad,Electronics,1,7915.25,UPI,2024-05-24,4
+1106,40,Male,Ajmer,Books,2,780.68,Net Banking,2024-06-26,3
+1047,50,Female,Jaipur,Electronics,1,6966.56,UPI,2024-03-05,4
+1572,30,Female,Pune,Clothing,2,2878.92,Credit Card,2024-03-01,5
+1336,37,Female,Jaipur,Sports,1,861.95,Cash on Delivery,2025-04-02,5
+1025,48,Male,Mumbai,Groceries,1,608.53,Credit Card,2024-04-26,5
+1256,32,Male,Ajmer,Groceries,2,1412.75,UPI,2024-05-01,3
+1007,44,Male,Jaipur,Clothing,1,1698.95,UPI,2025-11-10,4
+1252,63,Female,Jaipur,Books,1,408.48,UPI,2024-06-18,3
+1302,26,Female,Mumbai,Clothing,1,955.95,UPI,2025-07-26,4
+1055,21,Male,Ajmer,Toys,1,1035.14,Debit Card,2025-11-18,5
+1525,16,Female,Ajmer,Electronics,1,8931.22,Cash on Delivery,2025-07-15,4
+1473,32,Female,Bengaluru,Home & Kitchen,1,1314.14,UPI,2025-07-22,4
+1027,17,Female,Jaipur,Sports,1,270.76,UPI,2025-09-16,2
+1077,24,Male,Hyderabad,Clothing,1,1501.25,UPI,2025-09-11,4
+1215,47,Male,Mumbai,Groceries,1,894.73,Credit Card,2025-10-04,4
+1385,31,Female,Hyderabad,Toys,2,2240.24,Net Banking,2025-03-27,4
+1364,35,Female,Delhi,Clothing,5,3562.49,UPI,2025-03-26,4
+1525,25,Male,Delhi,Clothing,1,799.59,Cash on Delivery,2024-11-28,5
+1311,37,Male,Hyderabad,Clothing,1,1363.46,Debit Card,2024-04-21,4
+1006,57,Male,Ajmer,Sports,1,1774.52,UPI,2025-02-15,2
+1002,23,Female,Kolkata,Sports,3,7214.76,Cash on Delivery,2025-12-03,4
+1362,42,Female,Kolkata,Electronics,1,2004.99,Credit Card,2025-03-31,4
+1507,39,Female,Mumbai,Beauty,1,902.35,Debit Card,2025-05-26,4
+1273,36,Female,Chennai,Clothing,1,769.32,Debit Card,2024-04-24,5
+1505,37,Male,Kolkata,Beauty,2,1880.37,UPI,2025-12-11,3
+1014,46,Male,Jaipur,Groceries,1,508.56,UPI,2024-03-12,4
+1191,20,Male,Ajmer,Home & Kitchen,1,2073.29,Cash on Delivery,2024-03-29,3
+1484,39,Male,Ahmedabad,Clothing,1,1611.91,UPI,2025-05-07,4
+1027,16,Female,Bengaluru,Sports,1,1977.85,Credit Card,2024-01-31,4
+1038,32,Male,Bengaluru,Electronics,1,6789.52,UPI,2025-04-19,5
+1272,59,Female,Hyderabad,Clothing,2,2198.2,UPI,2024-01-08,3
+1230,38,Female,Delhi,Books,5,3301.3,Credit Card,2024-12-04,5
+1085,19,Female,Hyderabad,Clothing,1,906.07,Credit Card,2025-09-14,4
+1473,22,Male,Pune,Clothing,1,1468.48,Credit Card,2024-12-10,5
+1125,27,Female,Pune,Electronics,1,7893.9,Cash on Delivery,2025-11-26,4
+1536,39,Male,Bengaluru,Home & Kitchen,3,4916.07,Cash on Delivery,2024-02-08,4
+1144,34,Female,Kolkata,Sports,1,1384.17,Cash on Delivery,2025-07-19,5
+1524,20,Male,Hyderabad,Home & Kitchen,1,1902.96,Credit Card,2025-04-24,2
+1211,40,Male,Hyderabad,Beauty,1,1162.2,UPI,2024-01-07,5
+1024,28,Female,Mumbai,Home & Kitchen,2,6660.27,Credit Card,2024-10-19,4
+1579,37,Female,Kolkata,Groceries,2,1920.13,UPI,2024-06-05,3
+1393,36,Female,Jaipur,Home & Kitchen,1,2355.65,UPI,2024-11-26,3
+1066,50,Female,Bengaluru,Beauty,1,1189.48,Credit Card,2025-09-18,5
+1232,30,Female,Hyderabad,Electronics,1,9548.33,Credit Card,2025-05-01,2
+1108,51,Male,Bengaluru,Sports,1,2030.56,Credit Card,2025-09-15,2
+1145,38,Male,Jaipur,Home & Kitchen,1,1697.82,Credit Card,2024-01-22,4
+1110,52,Female,Delhi,Sports,1,1341.05,Credit Card,2024-12-01,5
+1227,41,Female,Hyderabad,Home & Kitchen,1,5256.64,Credit Card,2024-08-10,4
+1110,59,Female,Jaipur,Beauty,1,590.13,Debit Card,2025-10-10,5
+1469,34,Female,Bengaluru,Home & Kitchen,1,3496.7,Cash on Delivery,2025-08-14,4
+1033,31,Male,Hyderabad,Home & Kitchen,1,1727.68,UPI,2025-03-16,4
+1368,29,Male,Chennai,Clothing,2,407.2,Cash on Delivery,2024-04-10,5
+1594,34,Male,Delhi,Electronics,3,33175.71,Cash on Delivery,2025-11-16,4
+1553,34,Female,Pune,Clothing,1,1767.74,Debit Card,2024-11-03,3
+1424,23,Female,Jaipur,Sports,1,2209.31,UPI,2024-11-20,3
+1517,41,Male,Jaipur,Electronics,1,9435.15,Debit Card,2024-08-12,4
+1281,46,Female,Pune,Home & Kitchen,4,2825.03,Credit Card,2025-11-09,5
+1319,46,Male,Kolkata,Electronics,1,8581.12,UPI,2025-08-18,4
+1442,37,Female,Jaipur,Groceries,1,536.81,UPI,2025-12-18,4
+1314,42,Male,Ajmer,Home & Kitchen,2,3198.32,Net Banking,2025-10-19,3
+1376,44,Male,Mumbai,Groceries,1,760.66,UPI,2025-05-05,3
+1288,27,Male,Mumbai,Electronics,3,13467.42,Net Banking,2024-01-03,4
+1436,17,Male,Delhi,Clothing,1,1035.66,UPI,2025-04-27,3
+1276,28,Male,Delhi,Clothing,1,1469.11,UPI,2024-06-11,4
+1581,47,Female,Hyderabad,Groceries,1,592.25,Debit Card,2024-11-02,5
+1502,32,Female,Ajmer,Clothing,1,1973.97,Debit Card,2025-04-08,5
+1515,45,Female,Ajmer,Electronics,1,420.19,Debit Card,2024-08-22,4
+1349,32,Male,Ahmedabad,Electronics,1,4967.3,Debit Card,2025-10-28,4
+1445,24,Male,Ahmedabad,Electronics,1,11763.94,UPI,2025-03-20,4
+1349,16,Male,Pune,Books,1,377.57,Credit Card,2024-06-06,5
+1136,40,Female,Mumbai,Electronics,2,23114.87,Credit Card,2024-09-11,5
+1242,42,Female,Bengaluru,Clothing,1,828.23,Cash on Delivery,2024-02-24,3
+1542,33,Male,Kolkata,Toys,3,1716.87,UPI,2024-10-25,5
+1039,22,Female,Ajmer,Clothing,2,704.92,Net Banking,2025-02-14,3
+1228,49,Female,Chennai,Groceries,1,524.38,Net Banking,2025-04-14,5
+1547,46,Male,Ahmedabad,Home & Kitchen,2,9136.58,Debit Card,2025-10-26,5
+1222,27,Female,Kolkata,Groceries,1,668.53,Debit Card,2024-03-28,4
+1005,35,Male,Chennai,Clothing,1,1001.66,UPI,2025-06-26,3
+1321,24,Male,Jaipur,Clothing,2,3040.25,UPI,2024-06-10,5
+1467,35,Male,Chennai,Clothing,1,457.24,UPI,2025-06-16,2
+1074,41,Male,Mumbai,Toys,1,575.45,Cash on Delivery,2025-05-13,4
+1003,37,Male,Ajmer,Sports,1,1385.09,Credit Card,2024-02-01,5
+1117,47,Male,Mumbai,Electronics,2,20256.57,UPI,2024-11-19,3
+1503,16,Male,Delhi,Home & Kitchen,2,4529.45,UPI,2025-09-28,4
+1573,38,Female,Hyderabad,Groceries,1,183.53,Cash on Delivery,2024-09-21,5
+1440,32,Male,Bengaluru,Clothing,1,1658.58,Cash on Delivery,2024-03-17,4
+1193,37,Male,Bengaluru,Books,1,461.61,Credit Card,2024-11-27,4
+1391,20,Female,Delhi,Beauty,1,1057.92,Net Banking,2025-03-02,1
+1025,16,Female,Hyderabad,Clothing,2,2197.15,Net Banking,2025-02-10,4
+1434,37,Female,Mumbai,Electronics,2,10790.33,Credit Card,2024-11-02,4
+1172,53,Male,Delhi,Beauty,1,1595.19,Credit Card,2024-04-02,4
+1299,26,Female,Hyderabad,Home & Kitchen,1,2135.89,Debit Card,2024-07-09,4
+1325,27,Female,Jaipur,Home & Kitchen,1,3741.56,Credit Card,2025-11-21,3
+1409,25,Male,Delhi,Beauty,1,1440.3,Cash on Delivery,2024-10-23,5
+1117,32,Male,Ahmedabad,Home & Kitchen,1,2595.8,UPI,2025-09-22,4
+1224,23,Male,Hyderabad,Electronics,1,5498.09,Credit Card,2024-03-23,3
+1531,18,Male,Mumbai,Clothing,1,1255.2,Credit Card,2024-07-28,3
+1112,17,Male,Pune,Clothing,1,717.94,UPI,2025-06-30,5
+1139,31,Male,Hyderabad,Groceries,2,759.66,Cash on Delivery,2025-10-01,3
+1558,16,Male,Bengaluru,Groceries,2,1676.8,Debit Card,2025-07-23,5
+1000,28,Female,Mumbai,Electronics,2,11712.51,UPI,2025-01-24,1
+1089,37,Male,Mumbai,Electronics,3,5235.06,UPI,2025-03-21,4
+1319,39,Male,Pune,Electronics,1,5500.9,UPI,2024-10-19,4
+1549,32,Male,Chennai,Sports,1,1465.02,UPI,2024-06-02,3
+1138,31,Male,Mumbai,Clothing,3,3315.87,UPI,2025-09-11,4
+1510,52,Female,Delhi,Sports,1,2893.59,Credit Card,2024-01-29,4
+1258,52,Male,Bengaluru,Groceries,1,634.64,Debit Card,2024-09-21,1
+1009,43,Female,Chennai,Electronics,2,19871.85,Cash on Delivery,2024-03-25,5
+1260,29,Female,Jaipur,Beauty,1,972.8,Net Banking,2024-06-26,5
+1171,26,Male,Hyderabad,Clothing,1,1593.74,Credit Card,2025-12-20,4
+1012,16,Male,Mumbai,Electronics,1,11825.45,UPI,2024-11-06,2
+1167,40,Female,Hyderabad,Clothing,1,224.49,UPI,2024-02-09,4
+1595,41,Male,Chennai,Groceries,3,2809.45,Net Banking,2025-04-03,4
+1320,48,Male,Jaipur,Electronics,2,28093.5,Credit Card,2025-01-02,5
+1318,33,Female,Pune,Sports,1,1432.21,Credit Card,2024-05-07,4
+1328,36,Male,Ajmer,Electronics,1,2262.16,Net Banking,2024-05-13,4
+1549,44,Male,Ahmedabad,Sports,1,2753.88,UPI,2025-11-27,5
+1418,16,Male,Jaipur,Clothing,1,1837.52,UPI,2024-02-14,4
+1094,54,Female,Hyderabad,Clothing,2,3062.3,UPI,2024-10-06,5
+1580,44,Female,Hyderabad,Home & Kitchen,4,12748.27,UPI,2025-03-12,4
+1317,35,Male,Mumbai,Sports,1,1927.12,Cash on Delivery,2025-05-06,4
+1235,38,Male,Mumbai,Groceries,2,1181.2,Credit Card,2024-07-26,5
+1333,28,Female,Pune,Books,1,50.0,UPI,2024-01-05,1
+1375,33,Female,Delhi,Electronics,1,2420.03,Debit Card,2024-07-25,3
+1458,40,Female,Delhi,Electronics,2,8726.72,UPI,2025-10-15,3
+1136,39,Female,Pune,Beauty,2,1582.21,Cash on Delivery,2025-02-22,5
+1587,41,Female,Pune,Beauty,4,2450.61,UPI,2024-11-04,4
+1546,16,Male,Ajmer,Clothing,1,1288.52,Debit Card,2024-08-19,5
+1512,36,Female,Chennai,Electronics,1,14442.55,Debit Card,2024-01-24,5
+1295,44,Male,Ajmer,Groceries,2,1572.93,Debit Card,2025-02-27,5
+1319,29,Male,Mumbai,Groceries,2,1536.33,Credit Card,2024-11-02,4
+1571,39,Male,Ajmer,Home & Kitchen,1,1797.09,Cash on Delivery,2024-06-26,4
+1348,31,Male,Delhi,Clothing,1,669.76,Debit Card,2024-04-28,3
+1228,47,Female,Ajmer,Groceries,1,50.0,Net Banking,2025-10-16,1
+1269,49,Female,Bengaluru,Clothing,1,1336.68,Credit Card,2024-03-16,4
+1290,31,Female,Chennai,Home & Kitchen,2,5385.93,Debit Card,2025-01-30,3
+1164,27,Male,Jaipur,Toys,1,647.55,UPI,2025-04-15,5
+1004,42,Female,Delhi,Groceries,1,679.66,Cash on Delivery,2024-12-01,4
+1378,28,Male,Mumbai,Toys,1,557.64,Debit Card,2025-01-27,2
+1077,43,Male,Kolkata,Clothing,2,1664.33,UPI,2024-04-14,5
+1409,16,Female,Jaipur,Beauty,1,1036.87,UPI,2024-11-26,4
+1573,37,Female,Pune,Clothing,1,166.43,UPI,2025-05-06,4
+1131,26,Male,Delhi,Electronics,1,8677.06,Debit Card,2024-11-09,5
+1041,36,Male,Hyderabad,Groceries,2,1174.83,UPI,2024-08-07,4
+1088,17,Female,Kolkata,Clothing,1,1542.83,UPI,2025-02-20,4
+1401,41,Male,Bengaluru,Books,1,464.37,Debit Card,2024-05-11,3
+1295,16,Male,Delhi,Electronics,1,13353.18,UPI,2025-11-28,3
+1294,16,Male,Delhi,Groceries,2,1770.07,Credit Card,2024-02-04,5
+1525,32,Female,Ajmer,Clothing,1,1214.4,UPI,2024-02-24,4
+1421,38,Female,Bengaluru,Electronics,1,5597.67,Credit Card,2025-02-04,4
+1022,16,Male,Ajmer,Clothing,1,1583.23,Credit Card,2024-05-09,1
+1574,60,Female,Ahmedabad,Home & Kitchen,3,8811.38,UPI,2025-08-20,4
+1142,25,Male,Bengaluru,Beauty,2,1172.32,UPI,2024-12-29,3
+1144,24,Female,Kolkata,Sports,2,6258.81,UPI,2024-10-18,4
+1224,25,Male,Delhi,Sports,1,2311.95,UPI,2025-10-25,4
+1502,21,Male,Chennai,Groceries,1,540.45,Cash on Delivery,2024-05-09,2
+1103,35,Male,Bengaluru,Clothing,1,808.86,UPI,2025-05-19,3
+1038,36,Female,Jaipur,Clothing,2,1594.59,Credit Card,2025-02-23,4
+1197,28,Male,Hyderabad,Electronics,1,12990.1,Net Banking,2024-08-22,5
+1578,29,Male,Delhi,Electronics,1,8920.2,Debit Card,2025-06-07,4
+1390,23,Male,Ajmer,Clothing,2,3619.63,Net Banking,2024-04-25,4
+1178,42,Male,Delhi,Groceries,1,1057.21,UPI,2024-09-17,5
+1553,59,Female,Mumbai,Clothing,1,1280.84,Credit Card,2024-02-27,4
+1447,25,Female,Delhi,Toys,1,938.89,UPI,2024-05-12,4
+1499,38,Female,Pune,Electronics,1,5022.34,Credit Card,2025-02-23,4
+1014,16,Female,Pune,Clothing,1,1084.38,Cash on Delivery,2024-07-21,4
+1288,47,Male,Bengaluru,Electronics,2,16781.18,UPI,2024-12-30,2
+1477,63,Female,Kolkata,Electronics,1,8310.9,UPI,2025-06-20,2
+1230,31,Male,Bengaluru,Toys,1,634.88,UPI,2024-01-13,1
+1419,31,Female,Ajmer,Clothing,1,2138.26,Credit Card,2024-02-15,4
+1156,51,Male,Pune,Clothing,1,263.23,Cash on Delivery,2025-01-23,5
+1549,21,Female,Chennai,Books,3,1459.85,Credit Card,2024-04-06,4
+1440,40,Male,Hyderabad,Home & Kitchen,1,3462.35,Debit Card,2025-02-21,3
+1096,28,Female,Bengaluru,Groceries,1,792.99,Credit Card,2025-08-10,4
+1410,34,Female,Hyderabad,Home & Kitchen,1,2577.01,UPI,2025-07-06,3
+1288,19,Female,Ajmer,Sports,1,1573.18,Credit Card,2025-07-26,5
+1253,56,Female,Bengaluru,Electronics,1,2798.42,UPI,2024-03-27,4
+1195,29,Male,Ajmer,Groceries,1,837.25,UPI,2024-11-01,4
+1597,16,Female,Delhi,Clothing,1,752.46,Cash on Delivery,2025-03-14,3
+1521,16,Female,Delhi,Electronics,2,18807.03,Net Banking,2024-08-13,4
+1516,37,Male,Chennai,Clothing,1,1707.45,UPI,2025-02-12,5
+1117,35,Female,Jaipur,Groceries,1,935.35,UPI,2025-06-15,3
+1158,45,Female,Pune,Clothing,2,3707.24,Debit Card,2025-08-08,4
+1227,40,Male,Chennai,Home & Kitchen,1,2343.52,Debit Card,2024-11-14,4
+1215,34,Male,Hyderabad,Groceries,1,807.67,UPI,2025-06-15,3
+1014,37,Female,Kolkata,Groceries,1,488.83,UPI,2025-03-29,3
+1156,20,Female,Kolkata,Groceries,1,810.99,Debit Card,2024-07-14,5
+1260,24,Female,Ajmer,Clothing,1,1047.35,Debit Card,2024-04-15,5
+1156,24,Male,Jaipur,Clothing,1,1529.87,Cash on Delivery,2024-01-26,4
+1046,35,Female,Kolkata,Clothing,5,5943.86,Credit Card,2025-10-16,5
+1323,29,Female,Jaipur,Clothing,2,2895.5,Cash on Delivery,2025-04-20,5
+1129,38,Female,Mumbai,Books,1,374.23,Debit Card,2025-02-16,4
+1410,16,Female,Hyderabad,Beauty,1,1008.95,Net Banking,2024-12-23,4
+1094,46,Female,Mumbai,Electronics,1,5519.86,Debit Card,2025-06-16,4
+1291,44,Female,Ajmer,Groceries,1,663.5,Cash on Delivery,2024-06-10,4
+1282,26,Male,Hyderabad,Electronics,2,22790.95,Debit Card,2025-08-03,4
+1068,43,Female,Chennai,Clothing,1,701.33,Credit Card,2024-10-26,5
+1010,33,Female,Pune,Books,1,628.41,Debit Card,2025-03-18,4
+1253,55,Female,Pune,Clothing,1,1370.67,UPI,2024-10-30,4
+1549,18,Female,Jaipur,Toys,1,1176.04,UPI,2025-08-29,4
+1133,27,Male,Pune,Sports,1,2191.6,UPI,2025-07-12,4
+1022,22,Male,Kolkata,Home & Kitchen,4,16750.19,Net Banking,2024-04-02,3
+1345,16,Male,Ajmer,Clothing,2,2865.93,UPI,2024-09-29,3
+1301,27,Male,Chennai,Groceries,1,433.25,Credit Card,2024-04-27,3
+1362,28,Other,Ahmedabad,Clothing,2,4306.21,Debit Card,2025-11-22,5
+1395,18,Female,Chennai,Groceries,1,577.46,Credit Card,2024-05-22,4
+1217,27,Female,Kolkata,Electronics,2,31695.17,UPI,2025-04-04,3
+1140,49,Male,Ajmer,Home & Kitchen,1,2759.33,UPI,2024-06-16,5
+1209,39,Male,Delhi,Clothing,1,2257.04,Net Banking,2024-01-11,5
+1459,49,Male,Delhi,Electronics,2,11494.94,Cash on Delivery,2025-09-10,3
+1355,17,Female,Ajmer,Clothing,1,1756.76,Credit Card,2025-02-15,4
+1323,33,Male,Delhi,Electronics,1,10761.2,Debit Card,2025-04-23,5
+1132,40,Male,Hyderabad,Clothing,1,924.62,Cash on Delivery,2024-01-15,4
+1126,22,Female,Hyderabad,Beauty,1,710.31,UPI,2024-02-19,4
+1105,56,Male,Delhi,Beauty,1,1000.41,Debit Card,2025-09-14,5
+1377,34,Female,Chennai,Sports,1,2504.37,Cash on Delivery,2024-01-04,5
+1050,18,Female,Bengaluru,Groceries,3,1458.98,UPI,2025-03-16,4
+1028,34,Male,Ajmer,Electronics,1,6847.07,Net Banking,2024-09-04,5
+1461,29,Male,Hyderabad,Electronics,1,6075.84,Debit Card,2025-01-29,4
+1295,36,Male,Delhi,Beauty,1,1197.59,Cash on Delivery,2024-03-31,5
+1296,20,Male,Jaipur,Books,1,799.84,Net Banking,2024-07-25,4
+1406,30,Female,Hyderabad,Clothing,4,7723.61,Credit Card,2024-03-10,4
+1404,39,Other,Chennai,Beauty,2,3220.09,Credit Card,2024-05-08,4
+1345,17,Male,Bengaluru,Clothing,2,787.88,Net Banking,2025-11-29,3
+1419,38,Male,Bengaluru,Sports,1,2399.89,UPI,2025-04-11,5
+1181,27,Female,Pune,Groceries,1,774.52,UPI,2024-07-22,2
+1000,42,Male,Delhi,Sports,1,1037.83,Debit Card,2025-05-17,5
+1566,28,Male,Kolkata,Sports,1,1891.97,UPI,2025-09-04,5
+1370,36,Male,Mumbai,Beauty,1,628.83,UPI,2025-12-23,4
+1430,39,Male,Mumbai,Electronics,1,2346.88,UPI,2024-11-04,4
+1308,36,Female,Ajmer,Electronics,1,6333.93,Debit Card,2024-01-16,3
+1136,39,Other,Mumbai,Toys,1,340.52,Credit Card,2024-10-02,5
+1201,28,Male,Hyderabad,Clothing,2,2856.32,Debit Card,2024-10-30,3
+1435,32,Female,Delhi,Beauty,1,480.2,Credit Card,2025-07-09,5
+1312,23,Male,Mumbai,Groceries,1,883.58,UPI,2024-09-09,3
+1116,44,Male,Pune,Clothing,2,2106.28,UPI,2024-11-19,4
+1574,43,Male,Hyderabad,Clothing,2,1455.41,Net Banking,2025-03-21,3
+1243,43,Male,Pune,Clothing,1,396.2,Credit Card,2024-05-31,3
+1536,58,Female,Mumbai,Beauty,1,919.38,Credit Card,2025-03-08,4
+1074,40,Female,Jaipur,Groceries,3,1736.35,UPI,2024-06-13,5
+1385,35,Male,Ajmer,Toys,2,1120.84,Credit Card,2025-03-20,3
+1209,53,Female,Bengaluru,Clothing,3,3243.83,Debit Card,2024-03-31,3
+1474,27,Female,Ahmedabad,Electronics,4,4135.03,Debit Card,2024-06-28,4
+1417,31,Male,Delhi,Home & Kitchen,1,3642.52,Net Banking,2024-06-12,4
+1346,29,Male,Mumbai,Electronics,1,1215.72,Credit Card,2025-06-14,3
+1528,49,Female,Chennai,Electronics,1,12210.84,UPI,2025-08-13,5
+1178,17,Male,Pune,Beauty,2,2157.54,Credit Card,2024-07-11,5
+1181,24,Male,Ajmer,Electronics,2,14633.0,Debit Card,2024-07-27,3
+1024,16,Male,Ajmer,Electronics,1,4821.97,UPI,2024-03-08,4
+1179,34,Male,Ajmer,Beauty,1,1429.09,Debit Card,2025-01-12,2
+1500,34,Male,Chennai,Clothing,2,3254.57,UPI,2025-07-16,3
+1160,34,Female,Delhi,Clothing,2,2368.48,UPI,2024-12-22,4
+1176,35,Male,Jaipur,Groceries,2,1309.73,Credit Card,2025-02-19,4
+1284,44,Female,Ajmer,Clothing,1,1322.27,Credit Card,2025-07-10,3
+1062,33,Male,Ajmer,Groceries,1,518.28,UPI,2024-07-12,4
+1155,35,Male,Bengaluru,Clothing,1,1917.61,Debit Card,2025-06-05,4
+1468,31,Male,Kolkata,Books,1,572.86,Cash on Delivery,2024-02-05,3
+1048,41,Male,Chennai,Groceries,1,367.43,UPI,2024-01-21,4
+1083,34,Female,Bengaluru,Groceries,1,324.45,Debit Card,2024-10-02,1
+1360,33,Male,Delhi,Clothing,1,1462.01,Credit Card,2024-07-13,4
+1147,31,Female,Bengaluru,Clothing,2,3503.17,UPI,2025-02-20,3
+1341,56,Female,Kolkata,Groceries,2,1236.72,Cash on Delivery,2025-10-25,4
+1475,37,Female,Jaipur,Clothing,1,1060.81,UPI,2025-07-01,2
+1062,47,Male,Ajmer,Groceries,1,729.21,Net Banking,2025-08-22,4
+1359,22,Male,Delhi,Clothing,2,2604.14,Net Banking,2024-10-01,4
+1560,45,Female,Ajmer,Electronics,1,3491.46,Cash on Delivery,2024-10-24,4
+1326,46,Male,Kolkata,Sports,2,5590.64,UPI,2025-03-26,3
+1140,24,Female,Ahmedabad,Electronics,1,5403.03,UPI,2025-10-13,4
+1214,24,Male,Chennai,Electronics,1,12218.66,Net Banking,2025-09-16,4
+1434,30,Other,Chennai,Groceries,1,303.43,UPI,2024-07-27,5
+1317,33,Female,Ajmer,Electronics,1,6264.97,UPI,2024-09-29,2
+1031,39,Female,Ajmer,Groceries,3,2855.87,UPI,2024-09-17,4
+1284,30,Female,Pune,Groceries,1,532.4,Net Banking,2025-12-08,1
+1304,43,Female,Ajmer,Electronics,2,8145.56,Debit Card,2025-10-26,4
+1428,18,Male,Pune,Beauty,1,432.68,UPI,2024-04-25,5
+1476,16,Female,Mumbai,Electronics,1,12439.53,Debit Card,2024-10-04,3
+1285,43,Male,Chennai,Sports,2,2287.43,Cash on Delivery,2024-03-16,5
+1143,52,Male,Chennai,Books,1,486.05,Cash on Delivery,2025-09-22,3
+1423,34,Male,Kolkata,Sports,1,2659.38,UPI,2025-06-03,2
+1018,44,Male,Jaipur,Beauty,1,625.08,UPI,2024-08-02,2
+1017,49,Male,Bengaluru,Groceries,3,1207.92,UPI,2025-11-21,4
+1589,35,Male,Jaipur,Clothing,2,2545.35,UPI,2024-10-10,5
+1370,18,Male,Kolkata,Beauty,1,1034.99,UPI,2024-05-01,5
+1174,45,Male,Ajmer,Electronics,3,20720.19,Credit Card,2025-11-08,5
+1193,20,Female,Jaipur,Books,1,432.67,Debit Card,2024-07-23,5
+1501,51,Other,Bengaluru,Electronics,2,25377.35,UPI,2025-02-23,5
+1112,31,Male,Ajmer,Clothing,1,1046.41,Credit Card,2024-02-08,5
+1113,22,Male,Ajmer,Sports,1,2237.24,Credit Card,2024-03-08,3
+1221,16,Male,Bengaluru,Home & Kitchen,1,3044.58,Debit Card,2025-12-24,4
+1263,43,Female,Chennai,Toys,2,1757.0,Net Banking,2025-02-25,4
+1054,40,Female,Jaipur,Clothing,2,3841.43,Debit Card,2024-01-15,2
+1457,19,Female,Delhi,Sports,1,1628.1,Cash on Delivery,2025-02-26,4
+1161,16,Male,Mumbai,Electronics,1,10014.84,Net Banking,2024-02-11,4
+1379,38,Female,Delhi,Clothing,1,830.5,UPI,2024-01-14,5
+1086,31,Female,Kolkata,Clothing,2,2836.97,Credit Card,2025-04-09,5
+1054,34,Male,Ajmer,Electronics,1,1306.03,Debit Card,2025-02-13,5
+1475,35,Male,Ajmer,Electronics,1,10120.43,UPI,2025-02-09,3
+1177,38,Male,Pune,Books,1,450.79,Cash on Delivery,2025-12-24,4
+1390,29,Male,Bengaluru,Beauty,1,719.33,UPI,2024-11-02,5
+1348,32,Male,Kolkata,Clothing,1,1852.88,UPI,2024-11-05,4
+1007,21,Male,Ajmer,Home & Kitchen,1,1646.32,Debit Card,2025-12-26,5
+1312,38,Male,Chennai,Toys,1,774.95,Credit Card,2025-03-14,4
+1442,46,Male,Jaipur,Books,2,1572.73,Credit Card,2024-04-04,2
+1327,50,Male,Delhi,Beauty,1,1181.48,Debit Card,2024-05-03,4
+1053,16,Female,Mumbai,Clothing,1,930.44,UPI,2025-02-10,4
+1238,23,Male,Jaipur,Groceries,1,773.53,Debit Card,2025-10-20,3
+1228,34,Female,Jaipur,Home & Kitchen,4,9011.9,UPI,2025-04-20,1
+1578,39,Female,Hyderabad,Electronics,2,14114.7,Net Banking,2024-08-17,4
+1050,18,Male,Ajmer,Groceries,1,528.45,Credit Card,2024-03-24,4
